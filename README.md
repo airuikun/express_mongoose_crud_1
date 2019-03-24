@@ -4,7 +4,7 @@ node.js + mongoose 实现一套完整的CRUD
 
 ## 安装
 
-    npm install
+    npm install 
   
 ## 运行
 
