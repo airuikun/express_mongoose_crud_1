@@ -16,6 +16,6 @@
     "mongodb":"1.4.15",
     "express-session":"1.9.1",
     "connect-mongo":"0.4.1",
-    "mongoose": "3.8.16"
+    "mongoose": "5.7.7"
   }
 }
